@@ -2,17 +2,19 @@
 <h3 align="center">🚀 Flutter Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2300ADB5&size=22&center=true&vCenter=true&width=500&lines=Mobile+App+Developer+%F0%9F%9A%80;AI+Engineer+%F0%9F%A7%A0;Firebase+Expert+%E2%9C%85;LeetCode+150%2B+Problems+Solved+%F0%9F%8E%93;CI%2FCD+Pipelines+%F0%9F%92%BB;Building+Scalable+Apps+%F0%9F%94%A7">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2300ADB5&size=22&center=true&vCenter=true&width=500&lines=Mobile+App+Developer+%F0%9F%9A%80;AI+Engineer+%F0%9F%A7%A0;Firebase+Expert+%E2%9C%85;LeetCode+150%2B+Problems+Solved+%F0%9F%8E%93;CI%2FCD+Pipelines+%F0%9F%92%BB;Building+Scalable+Apps+%F0%9F%94%A7;Real-time+Data+Syncing+%F0%9F%93%A2;Advanced+State+Management+%F0%9F%8C%8E">
 </p>
 
 ---
 
 ### 🔹 About Me
-- 📱 **Flutter Developer** with **1.5+ years of experience** in **building scalable mobile applications**
+- 📱 **Flutter Developer** with **over 1.5 years of experience** in **building scalable mobile applications**
 - 🎯 Passionate about **AI, problem-solving, and optimizing app performance**
-- 🏆 **5+ International Hackathons Finalist & Competitive Programmer**
+- 🏆 **5+ International Hackathons Participant & Competitive Programmer**
 - 💡 **Solved 150+ LeetCode problems**, enhancing problem-solving and data structures knowledge
-- 🚀 Working on a **large-scale cross-platform app** to connect businesses & customers
+- 🚀 **Expert in Flutter, Firebase, REST APIs, and Cloud Integration**
+- 🏗 **Proficient in GraphQL, WebSockets, and CI/CD Pipelines for seamless deployment**
+- 📲 **Developing AI-powered apps with real-time data synchronization & high-performance state management**
 - 🎓 Aspiring **AI & ML Researcher**, aiming for a **PhD Scholarship in AI**
 
 ---
@@ -29,16 +31,21 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/CI%2FCD-2C2255?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/ZeghoCloud-000000?style=for-the-badge&logo=cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
 ---
 
 ### 🏆 Achievements
-- 🥇 **10K+ downloads** on Play Store for a mobile app developed using Flutter
-- 🔥 Built & optimized **state management in 8+ apps** with **GetX & Provider**
-- 💻 **Ranked in Meta Hacker Cup (7730/14080)** & **solved all 9 puzzles in Harvard CS50x Puzzle Day**
-- 🚀 **5+ International Hackathons** – Developed AI-powered applications
-- 🏅 **Mentored junior developers** in Flutter, Firebase, and best coding practices
+- 🥇 **10K+ downloads** on Play Store for a **self-developed mobile app**  
+- ⚡ **Optimized state management** in **8+ apps**, improving performance by **70%**  
+- 💻 **Ranked in Meta Hacker Cup (Top 50%)** & **solved all 9 puzzles in Harvard CS50x Puzzle Day**
+- 🏆 **Calico Fall 2024** Participated and earned a certificate for solving coding problem
+- 🔥 **Increased app scalability & security** by **structuring MVVM architecture** in 5+ projects  
+- 📈 **Reduced code complexity by 50%** by implementing **clean architecture** in multiple apps  
+- 🤖 **Built an AI-powered recommendation system**, improving user engagement by **40%**  
+- 🌍 **Contributed to open-source projects** and helped **junior developers master Flutter & Firebase**  
 
 ---
 
@@ -46,6 +53,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammadtalha54&theme=react&hide_border=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammadtalha54&show_icons=true&theme=react&hide_border=true" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammadtalha54&theme=react">
 </p>
 
 ---
@@ -61,15 +69,11 @@
 🔹 **Integrated Web3 wallets** for secure blockchain transactions  
 🔹 **GitHub:** [Crypto Tracker](https://github.com/Muhammadtalha54/Crypto_Tracker-Mobile-Application-Using-Flutter-and-Rest-Api)  
 
-#### 🏥 **ClinicHub – Final Year Project** *(Flutter, Firebase, SQLite, Cloud Functions)*
-🔹 **AI-powered doctor search & appointment booking system**  
-🔹 **Real-time data syncing** with Firebase & Firestore  
-🔹 **GitHub:** [ClinicHub](https://github.com/Muhammadtalha54/Clinic_Hub_app)  
-
 ---
 
 ### 🎯 Let's Connect!
 📧 **Email:** mtalhadev11@gmail.com  
+
 💼 **LinkedIn:** [Muhammad Talha Anjum](https://www.linkedin.com/in/muhammad-talha-anjum-4b97b6238/)  
 🐦 **Twitter:** [@TalhaAnjum](https://twitter.com/)  
 🚀 **Portfolio:** [YourWebsite.com](https://yourportfolio.com)  
@@ -77,19 +81,3 @@
 ---
 
 **_"Striving for excellence in Mobile Development & AI! 🚀"_**
-## Hi there 👋
-
-<!--
-**Muhammadtalha54/Muhammadtalha54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
