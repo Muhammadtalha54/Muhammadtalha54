@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Muhammad Talha Anjum</h1>
+ok<h1 align="center">👋 Hi, I'm Muhammad Talha Anjum</h1>
 <h3 align="center">🚀 Flutter Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
@@ -75,8 +75,7 @@
 📧 **Email:** mtalhadev11@gmail.com  
 
 💼 **LinkedIn:** [Muhammad Talha Anjum](https://www.linkedin.com/in/muhammad-talha-anjum-4b97b6238/)  
-🐦 **Twitter:** [@TalhaAnjum](https://twitter.com/)  
-🚀 **Portfolio:** [YourWebsite.com](https://yourportfolio.com)  
+
 
 ---
 
