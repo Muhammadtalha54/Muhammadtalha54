@@ -1,4 +1,4 @@
-ok<h1 align="center">👋 Hi, I'm Muhammad Talha Anjum</h1>
+<h1 align="center">👋 Hi, I'm Muhammad Talha Anjum</h1>
 <h3 align="center">🚀 Flutter Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@ ok<h1 align="center">👋 Hi, I'm Muhammad Talha Anjum</h1>
 ---
 
 ### 🔹 About Me
-- 📱 **Flutter Developer** with **over 1.5 years of experience** in **building scalable mobile applications**
+- 📱 **Flutter Developer** with **1.5+ years of experience** in **building scalable mobile applications**
 - 🎯 Passionate about **AI, problem-solving, and optimizing app performance**
 - 🏆 **5+ International Hackathons Participant & Competitive Programmer**
 - 💡 **Solved 150+ LeetCode problems**, enhancing problem-solving and data structures knowledge
@@ -40,8 +40,8 @@ ok<h1 align="center">👋 Hi, I'm Muhammad Talha Anjum</h1>
 ### 🏆 Achievements
 - 🥇 **10K+ downloads** on Play Store for a **self-developed mobile app**  
 - ⚡ **Optimized state management** in **8+ apps**, improving performance by **70%**  
-- 💻 **Ranked in Meta Hacker Cup (Top 50%)** & **solved all 9 puzzles in Harvard CS50x Puzzle Day**
-- 🏆 **Calico Fall 2024** Participated and earned a certificate for solving coding problem
+- 💻 **Ranked in Meta Hacker Cup (Top 50%)** & **solved all 9 puzzles in Harvard CS50x Puzzle Day**  
+- 🏆 **Calico Fall 2024** Participated and earned a certificate for solving coding problems  
 - 🔥 **Increased app scalability & security** by **structuring MVVM architecture** in 5+ projects  
 - 📈 **Reduced code complexity by 50%** by implementing **clean architecture** in multiple apps  
 - 🤖 **Built an AI-powered recommendation system**, improving user engagement by **40%**  
@@ -75,7 +75,6 @@ ok<h1 align="center">👋 Hi, I'm Muhammad Talha Anjum</h1>
 📧 **Email:** mtalhadev11@gmail.com  
 
 💼 **LinkedIn:** [Muhammad Talha Anjum](https://www.linkedin.com/in/muhammad-talha-anjum-4b97b6238/)  
-
 
 ---
 
