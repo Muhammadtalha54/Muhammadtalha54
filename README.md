@@ -59,15 +59,30 @@
 ---
 
 ### 🚀 Notable Projects
-#### 📱 **4DOST: Local Business Search Engine** *(Flutter, Firebase, GetX, REST APIs)*
+## 🛠 Projects
+
+#### 📱 **4DOST: Local Business Search Engine** *(Flutter, Firebase, GetX, REST APIs)*  
 🔹 A platform for discovering businesses with ratings, deals & events  
 🔹 **Optimized performance** with GetX, boosting app efficiency by 50%  
+🔹 Achieved **10K+ downloads** and **4.9+ average user rating**  
 🔹 **Play Store:** [4DOST](https://play.google.com/store/apps/details?id=com.msr.dost)  
 
-#### 📊 **Crypto Tracker** *(Flutter, Web3, REST APIs, Blockchain)*
+#### 📊 **Crypto Tracker** *(Flutter, Web3, REST APIs, Blockchain)*  
 🔹 **Live cryptocurrency tracking**, market trends, and portfolio management  
 🔹 **Integrated Web3 wallets** for secure blockchain transactions  
 🔹 **GitHub:** [Crypto Tracker](https://github.com/Muhammadtalha54/Crypto_Tracker-Mobile-Application-Using-Flutter-and-Rest-Api)  
+
+#### 🎬 **AVG: Automated VideoADS Generation** *(Flutter, Node.js, MongoDB, AI Models)*  
+🔹 **AI-powered video ad generator** from URL or user input  
+🔹 Intelligent **content scraping**, script generation, and avatar lip-sync  
+🔹 **Customizable videos** with multiple scripts, tones, and avatars  
+🔹 **AI Models:** Ollama, Mistral, MoviePy, Text-to-Speech API  
+
+#### 📱 **Goffix: Real-time Service Booking App** *(Flutter, Firebase, Provider)*  
+🔹 Built a **real-time service booking app** with categorized search and direct calling features  
+🔹 Achieved **1K+ downloads** and **4.5+ average user rating**  
+🔹 Integrated **Firebase** for authentication and **Provider** for state management  
+🔹 **Play Store:** [Goffix](https://play.google.com/store/apps/details?id=com.fewnix.goffix)  
 
 ---
 
