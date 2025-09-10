@@ -8,11 +8,11 @@
 ---
 
 ### 🔹 About Me
-- 📱 **Flutter Developer** with **1.5+ years of experience** in **building scalable mobile applications**
+- 📱 **Flutter Developer** with **2 years of experience** in **building scalable mobile applications**
 - 🎯 Passionate about **AI, problem-solving, and optimizing app performance**
 - 🏆 **5+ International Hackathons Participant & Competitive Programmer**
 - 💡 **Solved 150+ LeetCode problems**, enhancing problem-solving and data structures knowledge
-- 🚀 **Expert in Flutter, Firebase, REST APIs, and Cloud Integration**
+- 🚀 **Expert in Flutter, Firebase, REST APIs,Mongodb,MySQL, SQLlite and Cloud Integration**
 - 🏗 **Proficient in GraphQL, WebSockets, and CI/CD Pipelines for seamless deployment**
 - 📲 **Developing AI-powered apps with real-time data synchronization & high-performance state management**
 - 🎓 Aspiring **AI & ML Researcher**, aiming for a **PhD Scholarship in AI**
@@ -38,14 +38,16 @@
 ---
 
 ### 🏆 Achievements
-- 🥇 **10K+ downloads** on Play Store for a **self-developed mobile app**  
-- ⚡ **Optimized state management** in **8+ apps**, improving performance by **70%**  
+- 🥇 **10K+ downloads** on Play Store for a **self-developed mobile app**
+- 
+- ⚡ **Optimized state management** in **12+ apps**, improving performance by **70%**  
 - 💻 **Ranked in Meta Hacker Cup (Top 50%)** & **solved all 9 puzzles in Harvard CS50x Puzzle Day**  
 - 🏆 **Calico Fall 2024** Participated and earned a certificate for solving coding problems  
 - 🔥 **Increased app scalability & security** by **structuring MVVM architecture** in 5+ projects  
 - 📈 **Reduced code complexity by 50%** by implementing **clean architecture** in multiple apps  
 - 🤖 **Built an AI-powered recommendation system**, improving user engagement by **40%**  
-- 🌍 **Contributed to open-source projects** and helped **junior developers master Flutter & Firebase**  
+- 🌍 **Contributed to open-source projects** and helped **junior developers master Flutter & Firebase**
+-  📱 **Built and shipped 15+ mobile apps** 
 
 ---
 
