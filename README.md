@@ -39,7 +39,6 @@
 
 ### 🏆 Achievements
 - 🥇 **10K+ downloads** on Play Store for a **self-developed mobile app**
-- 
 - ⚡ **Optimized state management** in **12+ apps**, improving performance by **70%**  
 - 💻 **Ranked in Meta Hacker Cup (Top 50%)** & **solved all 9 puzzles in Harvard CS50x Puzzle Day**  
 - 🏆 **Calico Fall 2024** Participated and earned a certificate for solving coding problems  
