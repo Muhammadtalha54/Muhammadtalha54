@@ -88,7 +88,7 @@
 #### 📱 **Goffix: Real-time Service Booking App** *(Flutter, Firebase, Provider)*  
 🔹 Built a **real-time service booking app** with categorized search and direct calling features  
 🔹 Achieved **1K+ downloads** and **4.5+ average user rating**  
-🔹 Integrated **Firebase** for authentication and **Provider** for state management  
+🔹 Integrated **Firebase** for authentication and **Provider** for state management 
 🔹 **Play Store:** [Goffix](https://play.google.com/store/apps/details?id=com.fewnix.goffix)  
 
 ---
